@@ -7,6 +7,7 @@ Here i will gather courses that i passed and think that they give good amount ma
 * [Machine Learning (Stanford University)](https://www.coursera.org/learn/machine-learning)
 ### Articles
 * [A comprehensive beginner’s guide to create a Time Series Forecast (with Codes in Python)](https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/)
+* (Data mining python tutorial)[https://www.springboard.com/blog/data-mining-python-tutorial/]
 
 ## Signal processing
 * [Audio Signal Processing for Music Applications (Universitat Pompeu Fabra of Barcelona & Stanford University)](https://www.coursera.org/learn/audio-signal-processing)
