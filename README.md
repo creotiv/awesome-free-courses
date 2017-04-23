@@ -1,5 +1,5 @@
 # Awesome free courses for developers
-Here i will gather courses that i passed and think that they give good amount materials in short period of time with good clarification of each step.
+Here i will gather courses that i passed and think that they give good amount of materials in short period of time with good clarification of each step.
 
 **Labels:**
 - **[BPM]** - Best practical material
