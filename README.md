@@ -2,6 +2,7 @@
 Here i will gather courses that i passed and think that they give good amount of materials in short period of time with good clarification of each step.
 
 **Labels:**
+- **[BTM]** - Best theoretical material
 - **[BPM]** - Best practical material
 - **[BS]** - Basics
 
@@ -9,7 +10,7 @@ Here i will gather courses that i passed and think that they give good amount of
 * [**[BPM]** Practical machine learning (John Hopkins University)](https://www.coursera.org/learn/practical-machine-learning)
 * [Creative applications of Deep Learning with Tensorflow (Kadeze Academy)](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-iv/sessions/introduction-to-tensorflow)
 * [**[BS]** Machine Learning (Stanford University)](https://www.coursera.org/learn/machine-learning)
-* [CS231n: Convolutional Neural Networks for Visual Recognition 2016](http://academictorrents.com/details/46c5af9e2075d9af06f280b55b65cf9b44eb9fe7) [(Assigments)](http://cs231n.github.io/)
+* [**[BTM,BS]** CS231n: Convolutional Neural Networks for Visual Recognition 2016](http://academictorrents.com/details/46c5af9e2075d9af06f280b55b65cf9b44eb9fe7) [(Assigments)](http://cs231n.github.io/)
 ### Articles
 * [A comprehensive beginner’s guide to create a Time Series Forecast (with Codes in Python)](https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/)
 * [Data mining python tutorial](https://www.springboard.com/blog/data-mining-python-tutorial/)
