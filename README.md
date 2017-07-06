@@ -22,6 +22,7 @@ Here i will gather courses that i passed and think that they give good amount of
 ### Articles
 * [A comprehensive beginner’s guide to create a Time Series Forecast (with Codes in Python)](https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/)
 * [Data mining python tutorial](https://www.springboard.com/blog/data-mining-python-tutorial/)
+* [Understanding the backward pass through Batch Normalization Layer](http://kratzert.github.io/2016/02/12/understanding-the-gradient-flow-through-the-batch-normalization-layer.html)
 
 ## Signal processing
 * [**[BPM]** Audio Signal Processing for Music Applications (Universitat Pompeu Fabra of Barcelona & Stanford University)](https://www.coursera.org/learn/audio-signal-processing)
