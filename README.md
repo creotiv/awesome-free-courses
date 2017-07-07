@@ -26,7 +26,7 @@ Here i will gather courses that i passed and think that they give good amount of
 * [A comprehensive beginner’s guide to create a Time Series Forecast (with Codes in Python)](https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/)
 * [Data mining python tutorial](https://www.springboard.com/blog/data-mining-python-tutorial/)
 * [Understanding the backward pass through Batch Normalization Layer](http://kratzert.github.io/2016/02/12/understanding-the-gradient-flow-through-the-batch-normalization-layer.html)
-* [**[BTM]**A Brief History of CNNs in Image Segmentation: From R-CNN to Mask R-CNN](https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4)
+* [**[BTM]** A Brief History of CNNs in Image Segmentation: From R-CNN to Mask R-CNN](https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4)
 
 ## Signal processing
 * [**[BPM]** Audio Signal Processing for Music Applications (Universitat Pompeu Fabra of Barcelona & Stanford University)](https://www.coursera.org/learn/audio-signal-processing)
