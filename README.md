@@ -13,6 +13,7 @@ Here i will gather courses that i passed and think that they give good amount of
 * [**[BTM,BS]** CS231n: Convolutional Neural Networks for Visual Recognition 2016](http://academictorrents.com/details/46c5af9e2075d9af06f280b55b65cf9b44eb9fe7) [(Assigments)](http://cs231n.github.io/)
 * [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
 * [Deep Learning by  Google](https://www.udacity.com/course/deep-learning--ud730)
+* [Artificial Inteligence Book](https://www.gitbook.com/book/leonardoaraujosantos/artificial-inteligence/details)
 
 ### Tutorials
 * [TensorFlow-World tutorials from astorfi](https://github.com/pkmital/tensorflow_tutorials)
