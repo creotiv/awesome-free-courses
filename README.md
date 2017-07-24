@@ -25,6 +25,7 @@ Here i will gather courses that i passed and think that they give good amount of
 * [**[BPM]** Tensorflow tutorials from Hvass-Labs](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
 * [**[BPM]** Fast Style Transfer in TensorFlow](https://github.com/lengstrom/fast-style-transfer)
 * [**[BPM]** Deep Photo Style Transfer](https://github.com/luanfujun/deep-photo-styletransfer)
+* [**[BPM]** Deep Image Analogy](https://github.com/msracver/Deep-Image-Analogy)
 
 ### Articles
 * [A comprehensive beginner’s guide to create a Time Series Forecast (with Codes in Python)](https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/)
