@@ -37,6 +37,11 @@ Here i will gather courses that i passed and think that they give good amount of
 for Real-Time Image Enhancement](https://groups.csail.mit.edu/graphics/hdrnet/)
 * [**[BTM]** Debugging Neural Networks: A Checklist](https://engineering.semantics3.com/debugging-neural-networks-a-checklist-ca52e11151ec)
 
+### Pre-Trained models
+* [Darknet models for image classification](https://pjreddie.com/darknet/imagenet/#reference)
+* [Tensorflow object detection models](https://github.com/tensorflow/models/blob/master/object_detection/g3doc/detection_model_zoo.md)
+* [Yolo object detection models](https://pjreddie.com/darknet/yolo/)
+
 ## Signal processing
 * [**[BPM]** Audio Signal Processing for Music Applications (Universitat Pompeu Fabra of Barcelona & Stanford University)](https://www.coursera.org/learn/audio-signal-processing)
 
